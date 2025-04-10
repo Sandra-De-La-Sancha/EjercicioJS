@@ -1,12 +1,15 @@
 //////////////////VARIABLES///////////////////////////////
 let txtNombre = document.getElementById("txtNombre");
-let btnNombre = document.getElementById ("btnNombre");
+let btnEnviar = document.getElementById ("btnEnviar");
 
-btnNombre.addEventListener("click", function(event){
-    event.preventDefault();
-    let nombre=txtNombre.value;
-    localStorage.setItem("nombre", nombre);
+btnEnviar.addEventListener("click", function(event){
+    event.preventDefault();//no hace lo que hace por defecto
+    txtNombre.value=txtNombre.value.toUpperCase();//Convierte a mayuscula txtNombre es el id de mi label 
+                                                  
+
+    localStorage.setItem("Nombre", txtNombre.value);
 });
+
 
 
 //if (localStorage.getItem("email") != null) {

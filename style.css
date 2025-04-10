@@ -1,0 +1,38 @@
+h1{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    color: #E2F1E7;
+    background-color: #8E8FFA;
+}
+
+div{
+    background-color: #8E8FFA;
+}
+
+html{
+    background-color: #8E8FFA;
+}
+
+label{
+    font-family: "EB Garamond", serif;
+    text-align: center;
+    color: #E2F1E7;
+    font-size: 20px;
+}
+
+a{
+    display: block;
+    text-align: center;
+    color: #7752FE;
+    text-decoration:wavy;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+body{
+    background-color: #8E8FFA; 
+}
+
