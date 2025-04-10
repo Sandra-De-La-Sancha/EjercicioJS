@@ -9,4 +9,10 @@
 
 > Se adjuntan imagenes de la vista general del programa
 
-//![index](https://raw.githubusercontent.com/Sandra-De-La-Sancha/CH53_EjercicioDOM/refs/heads/main/Imagenes/index.png)
+![index](https://github.com/Sandra-De-La-Sancha/EjercicioJS/blob/main/img/10.png)
+
+![index](https://github.com/Sandra-De-La-Sancha/EjercicioJS/blob/main/img/11.png)
+
+![index](https://github.com/Sandra-De-La-Sancha/EjercicioJS/blob/main/img/12.png)
+
+![index](https://github.com/Sandra-De-La-Sancha/EjercicioJS/blob/main/img/13.png)
